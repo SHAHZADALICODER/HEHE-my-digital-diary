@@ -10,7 +10,9 @@ I’m a self-taught developer, filmmaker, storyteller, and someone who deeply be
 This blog is not just for others — it’s also for my future self. A place to leave traces of how I felt, what I learned, and what I dreamed at this stage of my life. Whether I’m talking about deep emotions, coding, game design, or random midnight thoughts — it all belongs here.
 
 Welcome to my mind. Welcome to HEHEHE: My digital diary. (System detected : Need to be updated)`,
-    }
+    },
+
+    '2': {title: 'Testing title', content: 'This is a test post content. It is just a placeholder to demonstrate the post structure.'},
 };
 
 
