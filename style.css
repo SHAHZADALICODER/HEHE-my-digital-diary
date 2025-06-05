@@ -1,0 +1,158 @@
+/* Reset & base */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #ecf0f1;
+  color: #2c3e50;
+  min-height: 100vh;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+header {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+header h1 {
+  font-size: 2rem;
+  color: #2980b9;
+  font-weight: 700;
+}
+
+header .tagline {
+  font-size: 1.1rem;
+  color: #34495e;
+}
+
+#mainContainer {
+  width: 100%;
+  max-width: 900px;
+
+  /* Landscape default: flex with search on left and posts on right */
+  display: flex;
+  gap: 20px;
+}
+
+/* Search bar styles */
+#searchDate {
+  padding: 10px;
+  font-size: 1rem;
+  border: 2px solid #2980b9;
+  border-radius: 8px;
+  width: 250px;
+  outline: none;
+  color: #2c3e50;
+  background: white;
+  flex-shrink: 0;
+  height: 40px;
+  align-self: flex-start;
+}
+
+/* Posts container styles */
+#postsContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 15px;
+  flex: 1; /* take remaining width */
+}
+
+/* Post preview style */
+.post {
+  background: white;
+  padding: 15px 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(44, 62, 80, 0.1);
+  cursor: pointer;
+  transition: box-shadow 0.3s ease;
+  flex: 1 1 calc(45% - 20px);
+  max-width: calc(45% - 20px);
+}
+
+.post:hover {
+  box-shadow: 0 0 15px rgba(41, 128, 185, 0.4);
+}
+
+.post h2 {
+  color: #2c3e50;
+  margin-bottom: 8px;
+}
+
+.post p {
+  font-size: 1rem;
+  line-height: 1.4;
+  color: #34495e;
+  max-height: 3rem; /* roughly 2 lines */
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* === Responsive adjustments === */
+
+/* PORTRAIT orientation or narrow screens */
+@media (orientation: portrait), (max-width: 600px) {
+  #mainContainer {
+    flex-direction: column;
+  }
+
+  #searchDate {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+    align-self: stretch;
+  }
+
+  #postsContainer {
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .post {
+    flex: 1 1 100%;
+    max-width: 100%;
+    white-space: normal; /* allow paragraphs to wrap normally on small */
+    max-height: none; /* remove line clamp so text shows fully */
+  }
+}
+
+/* Reset & base styles remain same */
+
+/* For big screens: width > height and min-width 601px */
+/* Search bar on left, posts stacked vertically on right */
+
+@media (orientation: landscape) and (min-width: 601px) {
+  #mainContainer {
+    flex-direction: row;
+  }
+
+  #searchDate {
+    width: 250px;
+    margin-bottom: 0;
+    align-self: flex-start;
+  }
+
+  /* Posts container flex column instead of row */
+  #postsContainer {
+    flex-direction: column;
+    gap: 15px;
+    flex: 1;
+  }
+
+  .post {
+    flex: none; /* no flex grow/shrink */
+    max-width: 100%; /* full width inside container */
+    white-space: normal; /* allow full paragraph text wrap */
+    max-height: none; /* no height limit, show full preview */
+  }
+}
+
