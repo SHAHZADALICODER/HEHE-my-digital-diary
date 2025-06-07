@@ -54,14 +54,14 @@ So what exactly am I supposed to do? Everything I do seems wrong, no matter how 
 
 Lately, something strange has started happening almost every midnight -- around 12 to 1 AM. I suddenly feel like I've lost something... but I don't even know what. It makes me feel like crying, but I don't know why. My mind starts playing back every painful moment I've ever had -- the times I felt humiliated, embarrassed, hurt -- like a cursed playlist on repeat.
 
-And then, there's my body. I'm not very handsome, I know. I'm overweight, and people feel the need to remind me of it daily.
+And then, there's my body. I'm not very handsome, I know. I'm overweig--, and people feel the need to remind me of it daily.----
 
 "What are you eating these days?" they laugh.
 I laugh too, but inside, I feel broken. I didn't ask for this body. And I surely didn't ask to be judged by it every day.
 
 I have dark skin too. And sometimes, I avoid laughing in front of people. Because when I look at myself laughing in the mirror, my face feels... weird. Like a dried egg or something. Not in a funny way -- in a way that makes me feel like others will find me disgusting if I smile too wide. So, I try to stay quiet. I don't want anyone to think I'm mocking them or being weird.
 
-Outside of my family, even when I know people, I can't talk to them freely. My vibe is just different. People expect you to talk like a "cool" guy, using bad words in casual conversation like it's a language. I can't fake that anymore. I don't want to.
+Outside of my family, even when I know people, I can't talk to them freely. My vibe is just different. People expect you to talk like a "cool" guy, using bad words in casual conversation like it's a lan--age. I can't fake that anymore. I don't want to.
 
 Once, I overheard my mother telling her sister:
 "He has no heart."
@@ -75,9 +75,9 @@ Sometimes I feel like my family has built an image of me in their minds that I d
 
 And all of this -- the pressure, the judgments, the loneliness, the unspoken pain -- it has started to feel like depression. I know what's causing it, but it still feels heavier than what those reasons should normally feel like. It's like I'm carrying more weight than I'm built for.
 
-I'm not writing this to act cool or look like some tragic character. I'm not writing this for sympathy or attention. I'm not the saddest person in the world -- and I know that. I'm just trying to say honestly what I'm feeling these days. That's it.
+I'm not writing --is to act cool or look like some tragic character. I'm not writi-- this for sympathy or attention. I'm not the saddest person in the world -- and I know that. I'm just trying to say honestly what I'm feeling these days. That's it.
 
-My Urdu teacher once told us:
+My Urdu teacher once told us:--
 "When you write down your pain, it absorbs some of the weight. Some of the pain stays on the page instead of in your heart."
 
 I didn't believe that at first. But I tried it.
@@ -87,7 +87,14 @@ And it helped.
 That's why I'm writing this on my blog. Not to impress anyone. Not to make anyone feel sorry for me. Just to speak honestly. To let it out. To give some peace to the mind that stays awake every night, haunted by the past.
 
 I've written everything I feel these days. Maybe I'll change or add something later. But for now, I'm going to publish this on my blog and wait for my future self to read it. I don't know who I'll be then -- but I hope that version of me is doing better than the one writing this today.`
+    },
+
+
+    "4": {
+        title: "My Mood Swings.",
+        content: "I don’t really know how to describe my mood these days. It’s true that I’m creative, which is why I named this post 'My Mood Swings.' When it comes to creativity, I can confidently say I’m a computer programmer—I can design websites, games, and apps. But that’s not all; I’m also a graphic designer, whether it’s 2D or 3D, and I can make animations and videos too. \n\nThe problem is: I can’t focus on one thing at a time. I’m constantly flooded with new ideas and projects, but I rarely finish them. I start something, get extremely excited, and then after a few days, I lose interest. My mind jumps from one thought to another, and I can’t seem to settle down. Still, I know I have the potential to do something great—if only I could find a way to stay focused and motivated. I want to use my creativity to build something meaningful—something I can be proud of. \n\nRight now, I’m just trying to understand how to manage my mood swings and bring balance into my life. Maybe someday I’ll look back and laugh at this phase, but for now, it’s just a part of who I am. Sometimes, I *do* manage to control it—like the time I developed and published two mobile games on the Play Store. But now? I’ve lost interest in fixing or updating them. I’ve made videos with my nephew, started app projects, and other things—but left them halfway. \n\nNow let me tell you how I even got into programming in the first place, and how it all started when I was just 14 years old. \n\nThe story begins in 6th grade. Our annual exams were approaching—but then, COVID-19 hit. Everything shut down. We were locked inside our homes. I installed Free Fire and started playing it non-stop. I got *so* addicted that I used to play it all day and night without even touching my books. I didn’t have a phone of my own, so I used my father's phone whenever he came home from work. It wasn’t just me—my entire village was hooked on that game. \n\nOne evening, while I was waiting for my father to return home so I could play, a *random thought* hit me. (I’ll talk more about my random thoughts in another post.) That thought was: \"How does the creator of this game feel, seeing thousands of people addicted to something he made?\" I didn’t think about the money he was making—I just imagined what it must feel like to create something that powerful. \n\nThat thought stayed with me. Without considering the difficulty or requirements, I decided then and there: I want to create a game like this—something people will love, something that might even become addictive.\n\nI borrowed my brother’s laptop and began searching on YouTube: “How to make a game.” I had absolutely zero knowledge of programming or what a game engine was. After watching several videos, I came across a channel named Sunny Gamedev (still subscribed today). I watched one of his beginner tutorials on game development and felt excited. He explained everything so well that I thought, “This doesn’t seem too hard. I can do this.”\n\nBut by the end of the video, he said something that shocked me: “To build your own game, you’ll need to learn a programming language.” \n\nI froze. “What the hell is this?” I thought. I searched about programming languages online and saw code for the first time in my life—it looked like some alien language with symbols, numbers, and colorful syntax. I immediately shut the laptop and felt completely demotivated. That was my *first* encounter with programming.\n\nBut I didn’t stop there. A few days later, I started searching again—this time for ways to create games *without* programming. I found dozens of videos about game engines that let you make games with no code at all. But after watching more and more, I realized a hard truth: You can’t create your own algorithms or unique mechanics without coding. Those no-code tools were just limited templates. \n\nNow, one thing you should know about me—I’m a super lazy person. I didn’t want to learn this alien language. I spent hours upon hours trying to find a way around it. I researched hundreds of game engines that promised easy game creation. And sure, I found some—but they were either limited or expensive, especially if you wanted to build more complex features.\n\nOne day, I shared all this frustration with my brother. He listened and then simply said, “Why don’t you just learn programming?” He motivated me, and for the first time, I really considered it. I searched, “Which programming language should I learn first to create games?”\n\nAlmost everywhere, the answer was the same: **C++ is the best language for game development.**\n\n(HEY YOU KNOW WHAT—I’M GONNA STOP WRITING THIS POST HERE BECAUSE MY LAPTOP IS ACTING LIKE IT’S ABOUT TO EXPLODE. IT’S LAGGING BADLY, SO I’LL CONTINUE THIS STORY IN ANOTHER POST!)"
     }
+
 
 };
 
@@ -116,5 +123,5 @@ if (postId && postsData[postId]) {
     document.getElementById('postContent').textContent = postsData[postId].content;
 } else {
     document.getElementById('postTitle').textContent = 'Post Not Found';
-    document.getElementById('postContent').textContent = 'Sorry, the post you are looking for does not exist.';
+    document.getElementById('postContent').textContent = 'Sorry, the post you are looking for does not exist , or maybe admin SHAHZAD ALI has not yet written it.';
 }
